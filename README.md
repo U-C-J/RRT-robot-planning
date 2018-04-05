@@ -1,5 +1,5 @@
 # RRT-robot-planning
-Object: A matlab GUI implement of RRT and RRT-connect robot path planning.
+Object: A simple matlab GUI implement of RRT and RRT-connect robot path planning.
 
 User guide: please see final.pdf attached.
 
